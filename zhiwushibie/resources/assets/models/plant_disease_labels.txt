@@ -1,0 +1,156 @@
+{
+  "species_taxons": {
+    "0": {
+      "chinese_name": "Apple___Apple_scab",
+      "latin_name": "Apple___Apple_scab"
+    },
+    "1": {
+      "chinese_name": "Apple___Black_rot",
+      "latin_name": "Apple___Black_rot"
+    },
+    "2": {
+      "chinese_name": "Apple___Cedar_apple_rust",
+      "latin_name": "Apple___Cedar_apple_rust"
+    },
+    "3": {
+      "chinese_name": "Apple___healthy",
+      "latin_name": "Apple___healthy"
+    },
+    "4": {
+      "chinese_name": "Blueberry___healthy",
+      "latin_name": "Blueberry___healthy"
+    },
+    "5": {
+      "chinese_name": "Cherry_(including_sour)___Powdery_mildew",
+      "latin_name": "Cherry_(including_sour)___Powdery_mildew"
+    },
+    "6": {
+      "chinese_name": "Cherry_(including_sour)___healthy",
+      "latin_name": "Cherry_(including_sour)___healthy"
+    },
+    "7": {
+      "chinese_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+      "latin_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot"
+    },
+    "8": {
+      "chinese_name": "Corn_(maize)___Common_rust_",
+      "latin_name": "Corn_(maize)___Common_rust_"
+    },
+    "9": {
+      "chinese_name": "Corn_(maize)___Northern_Leaf_Blight",
+      "latin_name": "Corn_(maize)___Northern_Leaf_Blight"
+    },
+    "10": {
+      "chinese_name": "Corn_(maize)___healthy",
+      "latin_name": "Corn_(maize)___healthy"
+    },
+    "11": {
+      "chinese_name": "Grape___Black_rot",
+      "latin_name": "Grape___Black_rot"
+    },
+    "12": {
+      "chinese_name": "Grape___Esca_(Black_Measles)",
+      "latin_name": "Grape___Esca_(Black_Measles)"
+    },
+    "13": {
+      "chinese_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+      "latin_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)"
+    },
+    "14": {
+      "chinese_name": "Grape___healthy",
+      "latin_name": "Grape___healthy"
+    },
+    "15": {
+      "chinese_name": "Orange___Haunglongbing_(Citrus_greening)",
+      "latin_name": "Orange___Haunglongbing_(Citrus_greening)"
+    },
+    "16": {
+      "chinese_name": "Peach___Bacterial_spot",
+      "latin_name": "Peach___Bacterial_spot"
+    },
+    "17": {
+      "chinese_name": "Peach___healthy",
+      "latin_name": "Peach___healthy"
+    },
+    "18": {
+      "chinese_name": "Pepper,_bell___Bacterial_spot",
+      "latin_name": "Pepper,_bell___Bacterial_spot"
+    },
+    "19": {
+      "chinese_name": "Pepper,_bell___healthy",
+      "latin_name": "Pepper,_bell___healthy"
+    },
+    "20": {
+      "chinese_name": "Potato___Early_blight",
+      "latin_name": "Potato___Early_blight"
+    },
+    "21": {
+      "chinese_name": "Potato___Late_blight",
+      "latin_name": "Potato___Late_blight"
+    },
+    "22": {
+      "chinese_name": "Potato___healthy",
+      "latin_name": "Potato___healthy"
+    },
+    "23": {
+      "chinese_name": "Raspberry___healthy",
+      "latin_name": "Raspberry___healthy"
+    },
+    "24": {
+      "chinese_name": "Soybean___healthy",
+      "latin_name": "Soybean___healthy"
+    },
+    "25": {
+      "chinese_name": "Squash___Powdery_mildew",
+      "latin_name": "Squash___Powdery_mildew"
+    },
+    "26": {
+      "chinese_name": "Strawberry___Leaf_scorch",
+      "latin_name": "Strawberry___Leaf_scorch"
+    },
+    "27": {
+      "chinese_name": "Strawberry___healthy",
+      "latin_name": "Strawberry___healthy"
+    },
+    "28": {
+      "chinese_name": "Tomato___Bacterial_spot",
+      "latin_name": "Tomato___Bacterial_spot"
+    },
+    "29": {
+      "chinese_name": "Tomato___Early_blight",
+      "latin_name": "Tomato___Early_blight"
+    },
+    "30": {
+      "chinese_name": "Tomato___Late_blight",
+      "latin_name": "Tomato___Late_blight"
+    },
+    "31": {
+      "chinese_name": "Tomato___Leaf_Mold",
+      "latin_name": "Tomato___Leaf_Mold"
+    },
+    "32": {
+      "chinese_name": "Tomato___Septoria_leaf_spot",
+      "latin_name": "Tomato___Septoria_leaf_spot"
+    },
+    "33": {
+      "chinese_name": "Tomato___Spider_mites Two-spotted_spider_mite",
+      "latin_name": "Tomato___Spider_mites Two-spotted_spider_mite"
+    },
+    "34": {
+      "chinese_name": "Tomato___Target_Spot",
+      "latin_name": "Tomato___Target_Spot"
+    },
+    "35": {
+      "chinese_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "latin_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus"
+    },
+    "36": {
+      "chinese_name": "Tomato___Tomato_mosaic_virus",
+      "latin_name": "Tomato___Tomato_mosaic_virus"
+    },
+    "37": {
+      "chinese_name": "Tomato___healthy",
+      "latin_name": "Tomato___healthy"
+    }
+  }
+}

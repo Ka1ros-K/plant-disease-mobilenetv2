@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/images/logo.png</file>
+        <file>resources/images/logo1.png</file>
+        <file>resources/images/logo2.png</file>
+        <file>resources/images/background.jpg</file>
+        <file>resources/images/background_plant.jpg</file>
+        <file>resources/images/background_disease.jpg</file>
+        <file>resources/images/openlogo.png</file>
+        <file>resources/images/searchlogo.png</file>
+        <file>resources/images/HBUTlogo.png</file>
+        <file>resources/images/wikilogo.png</file>
+        <file>resources/images/zhinanlogo.png</file>
+        <file>resources/images/zhuangshilogo.png</file>
+        <file>resources/images/favouriteslogo.png</file>
+        <file>resources/images/historylogo.png</file>
+        <file>resources/images/infologo.png</file>
+        <file>resources/images/settinglogo.png</file>
+        <file>resources/images/wikilogo2.png</file>
+        <file>resources/images/imagelogo.png</file>
+        <file>resources/images/DeepSeeklogo2.png</file>
+        <file>resources/images/DeepSeeklogo3.png</file>
+        <file>resources/images/deepseek logo.png</file>
+        <file>resources/images/favorite11logo.png</file>
+        <file>resources/images/Camlogo.png</file>
+        <file>resources/images/maplogo.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <!-- 图标文件将在这里添加 -->
+    </qresource>
+    <qresource prefix="/models">
+        <!-- 模型文件将在这里添加 -->
+    </qresource>
+</RCC>

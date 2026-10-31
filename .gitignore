@@ -1,0 +1,18 @@
+# 构建产物
+build/
+build_*/
+out/
+*.user
+*.autosave
+
+# 数据集（体积过大，用 download_dataset.py 下载）
+dataset/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 本地密钥（请用环境变量 DEEPSEEK_API_KEY）
+.env
